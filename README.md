@@ -1,7 +1,6 @@
 # Nyamakima TechTrend 🛒
 This project was submitted as part of my PLP Web Development Module final Project. The concepts applied are part of the trhematic areas learnt in class with great guidance of Mr. Dedan Okware.
 
-![Nyamakima TechTrend](https://via.placeholder.com/1200x630?text=Nyamakima+TechTrend)
 
 A modern e-commerce platform for tech products based in Kenya. This responsive web application allows users to browse, filter, and purchase the latest tech gadgets with a seamless shopping experience.
 
